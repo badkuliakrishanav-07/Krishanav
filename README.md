@@ -13,8 +13,14 @@
     f) Choose Use the following DNS server addresses and enter:
     g) Then add the new DNS you want to use
     h) Then click OK → reconnect to apply.
-# 3. Public Available DNS
+# 3. Publically Available DNS
     1) Google Public DNS: IPv4 addresses (8.8.8.8 and 8.8.4.4) or IPv6 addresses (2001:4860:4860::8888 and 2001:4860:4860::8844). 
     2) Cloudflare DNS: IPv4 address is 1.1.1.1, and they also offer an IPv6 address, 2606:4700:4700::1111. 
+    3) OpenDNS (Cisco): IPv4 208.67.222.222
+                             208.67.220.220
+                        IPv6 2620:119:35::35
+                             2620:119:53::53
+
+
     
 
